@@ -1,0 +1,1 @@
+SSR软件的集合，上传后使用jsdelivr下载，Electron-SSR见https://github.com/gamernotitle-forked/electron-ssr/releases
